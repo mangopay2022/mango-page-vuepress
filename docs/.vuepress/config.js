@@ -53,17 +53,6 @@ module.exports = {
           ]
         }
       ],
-      '/standard': [
-        { 
-          title: '前端开发规范',
-          collapsable: false,
-          children: [
-            '/standard/js/',
-            '/standard/vue/',
-            '/standard/eslint/'
-          ]
-        }
-      ]
     }
   }
 }
